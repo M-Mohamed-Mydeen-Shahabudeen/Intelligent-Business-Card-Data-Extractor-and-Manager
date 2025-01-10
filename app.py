@@ -9,7 +9,7 @@ import re
 DB_CONFIG = {
     'host': 'localhost',  
     'user': 'root',       
-    'password': 'Mohamedmydeen@4262', 
+    'password': 'Mohamed', 
     'database': 'bizcardx' 
 }
 
