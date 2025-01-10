@@ -1,5 +1,5 @@
 ### GitHub Project Title:
-**BizCardX: Business Card Data Extraction and Management Using OCR**
+**CardVision: Intelligent Business Card Data Extractor and Manager**
 
 ### GitHub Project Description:
 **BizCardX** is a robust Streamlit-based application designed to simplify the process of extracting and managing business card information. This project leverages the power of **easyOCR** for optical character recognition (OCR) and integrates a database management system (**SQLite/MySQL**) for efficient data storage and management. 
