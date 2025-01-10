@@ -27,4 +27,4 @@ This project is an ideal solution for professionals and businesses looking to ma
 
 Explore the project to see how BizCardX transforms the way business card information is handled!
 
----------------------------------------------------------IN SHORT------------------------------------------------------------**CardVision** is a Streamlit-based application that extracts and manages business card information using **easyOCR** and integrates with **SQLite/MySQL**. Upload business cards, extract key details, and store, update, or delete data with an intuitive interface and seamless database integration.
+
