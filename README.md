@@ -1,4 +1,4 @@
-### GitHub Project Title:
+### An Internship Project
 **CardVision: Intelligent Business Card Data Extractor and Manager**
 
 ### GitHub Project Description:
