@@ -1,0 +1,4 @@
+streamlit
+easyocr
+Pillow
+sqlite3
